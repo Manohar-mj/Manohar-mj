@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/dhfmmj" target="blank"><img src="https://img.shields.io/twitter/follow/dhfmmj?logo=twitter&style=for-the-badge" alt="dhfmmj" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently Studying on **JNTUACEK**
 
 - 🌱 I’m currently learning **Google Data Analytics Professional Certificate**
 
-- 👯 I’m looking to collaborate on **MAANG**
+- 👯 I’m looking to collaborate on **APP DEV & UXUI DESiIGN**
 
 - 👨‍💻 All of my projects are available at [https://mjdev38.netlify.app/](https://mjdev38.netlify.app/)
 
@@ -49,6 +49,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar-mj&" alt="manohar-mj" /></p>
 
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/manoharmj2W"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/manoharmj2W" /></a></p><br><br>
 
 
 
