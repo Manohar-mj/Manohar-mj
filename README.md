@@ -1,4 +1,5 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*vExNK0V98uWMWoJFLvPeWg.png)](https://github.com/Manohar-mj)
+[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://github.com/Manohar-mj)
+
 <h1 align="center" style="font-family: times, serif">Hi 👋, I'm MANOHAR JOSHI SAVARAPU</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
@@ -8,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/dhfmmj" target="blank"><img src="https://img.shields.io/twitter/follow/dhfmmj?logo=twitter&style=for-the-badge" alt="dhfmmj" /></a> </p>
 
-- 🔭 I’m currently Studying on **JNTUACEK**
+- 👨‍🎓 I’m currently Studying on **JNTUACEK**
 
-- 🌱 I’m currently learning **Google Data Analytics Professional Certificate**
+- 🎯 I’m currently learning **Google Data Analytics Professional Certificate**
 
 - 👯 I’m looking to collaborate on **APP DEV & UXUI DESiIGN**
 
@@ -46,7 +47,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manohar-mj&show_icons=true&locale=en" alt="manohar-mj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar-mj&theme=tokyonight" alt="manohar-mj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar-mj&theme=vue-dark" alt="manohar-mj" /></p>
 
 
 <h3 align="left">Support:</h3>
