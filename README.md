@@ -46,7 +46,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manohar-mj&show_icons=true&locale=en" alt="manohar-mj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar-mj&" alt="manohar-mj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar-mj&theme=tokyonight" alt="manohar-mj" /></p>
 
 
 <h3 align="left">Support:</h3>
