@@ -9,8 +9,6 @@
 
 - 👨‍🎓 I’m currently Studying on JNTUACEK
 
-- 📝 I regularly write articles on [Leetcode and GFG](Leetcode and GFG)
-
 - ⚡ Fun fact I think i am funny
 
 
