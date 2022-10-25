@@ -1,7 +1,7 @@
 [![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://github.com/Manohar-mj)
 
 <h1 align="center">Hi 👋, I'm MANOHAR JOSHI SAVARAPU</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">Front end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manohar-mj&label=Profile%20views&color=0e75b6&style=flat" alt="manohar-mj" /> </p>
 
