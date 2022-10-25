@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manohar-mj" alt="manohar-mj" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dhfmmj" target="blank"><img src="https://img.shields.io/twitter/follow/dhfmmj?logo=twitter&style=for-the-badge" alt="dhfmmj" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Manohar2338" target="blank"><img src="https://img.shields.io/twitter/follow/Manohar2338?logo=twitter&style=for-the-badge" alt="Manohar2338" /></a> </p>
 
 - 🔭 I’m currently working on **Front end**
 
