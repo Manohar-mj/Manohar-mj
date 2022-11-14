@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mjdev38.netlify.app/](https://mjdev38.netlify.app/)
 
-- 📝 I write articles on [GFG](GFG)
+- 📝 I write articles on [GFG](https://www.geeksforgeeks.org/tcs-nqt-ninja-interview-experience-sept-2023/)
 
 - 💬 Ask me about **Flutter,Figma,MAANG**
 
