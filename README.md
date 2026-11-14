@@ -1,78 +1,190 @@
-[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://github.com/Manohar-mj)
 
-<h1 align="center">Hi 👋, I'm MANOHAR JOSHI SAVARAPU</h1>
-<h3 align="center">Front end developer</h3>
+<!-- DATA ENGINEER GITHUB PROFILE -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manohar-mj&label=Profile%20views&color=0e75b6&style=flat" alt="manohar-mj" /> </p>
+<h1 align="center">Hi 👋, I'm Manohar Joshi Savarapu</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manohar-mj" alt="manohar-mj" /></a> </p>
+<h3 align="center">
+  Data Engineer | Python | SQL | PySpark | Databricks | AWS | Azure
+</h3>
 
-<p align="left"> <a href="https://twitter.com/Manohar2338" target="blank"><img src="https://img.shields.io/twitter/follow/Manohar2338?logo=twitter&style=for-the-badge" alt="Manohar2338" /></a> </p>
-
-- 🔭 I’m currently working on **Front end**
-
-- 🌱 I’m currently learning **Meta Frontend Professional Certificate**
-
-- 👯 I’m looking to collaborate on **Front end**
-
-- 👨‍💻 All of my projects are available at [https://mjdev38.netlify.app/](https://mjdev38.netlify.app/)
-
-- 📝 I write articles on [GFG](https://www.geeksforgeeks.org/tcs-nqt-ninja-interview-experience-sept-2023/)
-
-- 💬 Ask me about **Flutter,Figma,MAANG**
-
-- 📫 How to reach me **manoharmj2338@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mXj2rtgE5jgulEGRfbAicmg7m9HAgGxG/view](https://drive.google.com/file/d/1mXj2rtgE5jgulEGRfbAicmg7m9HAgGxG/view)
-
-- ⚡ Fun fact **I think i am funny**
-
-<h3 align="center">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/manohar-mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="manohar-mj" height="30" width="40" /></a>
-<a href="https://twitter.com/dhfmmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhfmmj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/savarapu manohar joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savarapu manohar joshi" height="30" width="40" /></a>
-<a href="https://fb.com/manohar joshi mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manohar joshi mj" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/manoharjoshi_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manoharjoshi_1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/manoharmj2338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manoharmj2338" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manoharmj2338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manoharmj2338" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/manoharmj2338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manoharmj2338" height="30" width="40" /></a>
+<p align="center">
+  Building scalable data pipelines, cloud data platforms and
+  end-to-end ETL/ELT solutions.
 </p>
 
-
-<h2 align="center">WEB DESIGN</h2>
 <p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">  </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">  </a>  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> </p>
-  
-  
-  
- <h2 align="center"> Android</h2>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"></a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  </p>
-  
-  
-  <h3 align="center">DESIGN :</h3>
-<p align="center"> 
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+  <img src="https://komarev.com/ghpvc/?username=manohar-mj&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+</p>
 
+---
 
-<h1 align="center">Languages <h1>
-<p align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> </p>
+## 🚀 About Me
 
+- 💼 Working as a **Data Engineer at Tata Consultancy Services (TCS)**.
+- 🤝 Client experience: **FLSmidth and Visteon**.
+- 👨‍💻 Experienced in building and optimizing ETL/ELT data pipelines.
+- ⚡ Hands-on experience with **Python, SQL, PySpark and Databricks**.
+- ☁️ Working with cloud data engineering technologies across **AWS and Azure**.
+- 🏗️ Interested in scalable data architectures, Lakehouse platforms and distributed processing.
+- 📊 Experienced in building Bronze, Silver and Gold data layers.
+- 🎯 Passionate about solving real-world data engineering problems.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/manoharmj2W"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/manoharmj2W" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manohar-mj&show_icons=true&locale=en&layout=compact" alt="manohar-mj" /></p>
+## 🛠️ Technical Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manohar-mj&show_icons=true&locale=en" alt="manohar-mj" /></p>
+### Programming & Query Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar-mj&" alt="manohar-mj" /></p>
+- Python
+- SQL
+- PySpark
+- Java
+
+### Big Data & Data Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=databricks,spark" />
+</p>
+
+- Apache Spark
+- PySpark
+- Databricks
+- Delta Lake
+- Medallion Architecture
+- ETL / ELT Pipelines
+- Data Warehousing
+- Data Modeling
+- Apache Hive
+
+### Cloud Platforms
+
+**Amazon Web Services (AWS)**
+
+- AWS S3
+- AWS Glue
+- AWS Lambda
+- Amazon Redshift
+- Amazon Athena
+- Amazon EMR
+
+**Microsoft Azure**
+
+- Azure Data Factory
+- Azure Databricks
+- Azure Data Lake Storage
+- Azure Synapse Analytics
+
+### Databases & Storage
+
+- Snowflake
+- MySQL
+- SQL
+- DynamoDB
+- Amazon Redshift
+- Delta Lake
+
+### Data Engineering Tools
+
+- Databricks Workflows
+- AWS Glue Crawlers
+- Apache Oozie
+- Git & GitHub
+- Linux / Unix
+- REST APIs
+- Data Pipeline Orchestration
+
+### Analytics & Visualization
+
+- Power BI
+- Microsoft Excel
+- Data Analysis
+- Dashboard Reporting
+
+---
+
+## 🏗️ Featured Data Engineering Projects
+
+### 1. FinPay – End-to-End Databricks Data Engineering Project
+
+**Technologies:** Databricks, PySpark, Delta Lake, SQL, Python
+
+- Designed an end-to-end data engineering pipeline using Medallion Architecture.
+- Implemented Bronze, Silver and Gold data layers.
+- Ingested structured CSV and semi-structured JSON datasets.
+- Built data transformation and cleansing workflows using PySpark.
+- Developed customer, transaction, order and payment analytics tables.
+- Implemented Databricks Jobs for pipeline orchestration.
+- Configured task dependencies across Bronze → Silver → Gold.
+- Developed dedicated transaction processing workflows.
+
+### 2. Nissan Customer 360
+
+**Technologies:** Snowflake, SQL, DynamoDB, Python, Unix/Linux
+
+- Worked on customer data integration and transformation.
+- Developed SQL-based data processing workflows.
+- Worked with customer preference and behavioral datasets.
+- Created and optimized Snowflake views.
+- Supported customer-centric data integration and analytics.
+
+### 3. DDT Telematics – Data Engineering
+
+**Technologies:** AWS Glue, PySpark, Hive, Lambda, Apache Oozie
+
+- Developed ETL pipelines using AWS Glue and PySpark.
+- Worked with large-scale telematics datasets.
+- Used Glue Crawlers for data cataloging.
+- Integrated data processing workflows using AWS Lambda.
+- Managed workflow orchestration using Apache Oozie.
+- Worked with Hive for data processing and querying.
+
+---
+
+## 🏆 Certifications
+
+- Databricks Certified Data Engineer Associate
+- Databricks Certified Generative AI Engineer Associate
+- Microsoft Certified: Azure Databricks Data Engineer Associate
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manohar-mj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manohar-mj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manohar-mj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/manohar-mj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:manoharmj2338@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Turning Raw Data Into Reliable Data Pipelines 🚀</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
+
